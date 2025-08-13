@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou a Cibelly!
+# 👋 Olá, eu sou a Cibelly Lima!
 
-<h6>Olá meu nome Cibelly 💖🏳‍🌈, tenho 22 anos e estou cursando ADS (Analise e Desenvolvimanto de Sistemas)  na Cruzeiro do Sul Virtual, com foco em trabalhar com programação Frontend, mas também aprendendo Backend. Atualmente estou aprendendo lógica de programação e algoritmos. Iniciei meus primeiros passos com HTML e CSS e criei meu primeiro projeto de site simples e interativo, no qual publiquei aqui no GitHub! Estou animado para continuar aprendendo e, em breve, buscar minha primeira oportunidade profissional.</h6>
+<h6>Olá meu nome Cibelly, tenho 22 anos e estou cursando ADS (Analise e Desenvolvimanto de Sistemas)  na Cruzeiro do Sul Virtual, com foco em trabalhar com programação Frontend, mas também aprendendo Backend. Atualmente estou aprendendo lógica de programação e algoritmos. Iniciei meus primeiros passos com HTML e CSS e criei meu primeiro projeto de site simples e interativo, no qual publiquei aqui no GitHub! Estou animado para continuar aprendendo e, em breve, buscar minha primeira oportunidade profissional.</h6>
 
 <br>
 
